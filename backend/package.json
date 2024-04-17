@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "OIBSIP3_Delivery-app"
+  },
+  "author": "tarie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "npm:Express@^3.0.1",
+    "Express": "^3.0.1",
+    "mongoose": "^8.3.2"
+  }
+}
